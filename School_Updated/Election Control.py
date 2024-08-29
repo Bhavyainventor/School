@@ -241,5 +241,4 @@ with open("results.txt", "w") as file:
         file.write(f"Candidate 3: {l}\n")
 
 arduino.close()
-print(name_status)
 
